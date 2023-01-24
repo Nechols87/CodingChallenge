@@ -1,0 +1,19 @@
+To run in dev:
+npm run dev
+
+To run:
+npm start
+npm run build
+
+Chose:
+Challenge 3
+
+Create a web server using Express.js that will respond to an HTTP GET request with a randomly generated string of 5 characters. The server should accept a query string parameter of length that will determine the length of the string generated.
+
+&&
+
+Challenge 1
+
+Define a function "findLargestContinuousSum" that takes in an array of numbers as its only argument, and returns the largest sum of any continuous subarray of that array.
+
+Hint: In this problem you have to find the largest sum of any continuous subarray of that array. You need to use the concept of dynamic programming.
