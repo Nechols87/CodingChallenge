@@ -2,8 +2,8 @@ To run in dev:
 npm run dev
 
 To run:
-npm start
 npm run build
+npm start
 
 Chose:
 Challenge 3
